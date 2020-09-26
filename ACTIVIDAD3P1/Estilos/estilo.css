@@ -1,0 +1,40 @@
+#menuListHoriz li {
+  list-style: none;
+  display: inline;/* Es necesario para que los elementos de la lista se situen uno tras otro (horizontalidad) */
+}
+
+#menuListHoriz li a, #menuList1 li a:focus {
+  list-style: none;
+  background-color: #99CCCC;
+  border: 1px solid #0000FF;
+  padding:10px;
+  text-decoration: none;
+  color: #000;
+  font-family: Verdana,Arial,Helvetica; 
+  font-size: 12px;
+  font-weight:bold;
+}
+
+#menuListHoriz li a:hover {
+  background-color: #003399;
+  border-color: #FFF;
+  color: #FFCC00;
+}
+</style>
+.texto1 { font-size: 60px}
+.texto1 {text-align:center}
+
+.texto2 {font-size: 20px}
+.texto3 {text-align: center;}
+.texto3 {font-size: 30px}
+
+.texto4 {font-size: 20px}
+.texto5 {text-align: center;}
+.texto5 {font-size: 30px}
+
+.texto6 {font-size: 20px}
+.texto7 {text-align: center;}
+.texto7 {font-size: 30px}
+
+.H1 { text-align: center}
+.body {
